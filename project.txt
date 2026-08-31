@@ -1,3 +1,5 @@
 Estoy feliz y agradecida por aprende Git. 
 Me gusta mucho saber cosas nuevas. 
 Estoy es fácil! 
+Estoy aprendiendo Git 
+Me ayuda a manejar versiones de mi codigo
