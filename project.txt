@@ -5,3 +5,4 @@ Estoy aprendiendo Git
 Me ayuda a manejar versiones de mi codigo
 Git se esta volviendo mas facil
 Estoy aprendiendo branches
+Estoy aprendiendo remoto
